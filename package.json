@@ -1,0 +1,11 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz with pluggable rules, tests and an interactive page. No dependencies.",
+  "type": "module",
+  "main": "src/fizzbuzz.js",
+  "bin": { "fizzbuzz": "src/cli.js" },
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
