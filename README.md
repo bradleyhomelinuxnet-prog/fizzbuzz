@@ -1,6 +1,6 @@
 # FizzBuzz
 
-[![tests](https://github.com/bradleyhomelinuxnet-prog/fizzbuzz/actions/workflows/test.yml/badge.svg)](https://github.com/bradleyhomelinuxnet-prog/fizzbuzz/actions/workflows/test.yml)
+[![tests](https://github.com/bradleyhomelinuxnet-prog/fizzbuzz/actions/workflows/test.yml/badge.svg)](https://github.com/bradleyhomelinuxnet-prog/fizzbuzz/actions/workflows/test.yml) [![Live site](https://img.shields.io/badge/live-site-d8a943)](https://bradleyhomelinuxnet-prog.github.io/fizzbuzz/) [![license: MIT](https://img.shields.io/badge/license-MIT-3d6fb4)](https://github.com/bradleyhomelinuxnet-prog/fizzbuzz/blob/main/LICENSE) [![node: >=18](https://img.shields.io/badge/node-%3E%3D18-5fa04e)](https://github.com/bradleyhomelinuxnet-prog/fizzbuzz/blob/main/package.json) ![No dependencies](https://img.shields.io/badge/dependencies-none-7faa5a)
 
 **Live demo: [bradleyhomelinuxnet-prog.github.io/fizzbuzz](https://bradleyhomelinuxnet-prog.github.io/fizzbuzz/)**
 
